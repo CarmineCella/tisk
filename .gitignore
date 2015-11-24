@@ -1,0 +1,8 @@
+Makefile
+config.log
+config.status
+src/.deps/
+src/Makefile
+src/tisk
+src/tisk.o
+autom4te.cache
